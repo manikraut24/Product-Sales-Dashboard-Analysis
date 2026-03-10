@@ -2,7 +2,6 @@
 This project analyzes a product dataset containing categories such as Furniture, Technology, and Office Supplies.  The goal is to explore product distribution across categories and build an interactive dashboard for better insights.
 
 ## Dataset
-
 The dataset contains the following columns:
 
 - Category – Main product category (Furniture, Technology, Office Supplies)
@@ -17,6 +16,7 @@ Sample Data:
 | Technology | Phones       | GE 30522EE2                  |
 | Office Sup.| Storage      | Recycled Steel Personal File |
 
+
 ## Tools Used
 
 - Excel / Power BI 
@@ -30,10 +30,12 @@ Sample Data:
 - Product level insights
 - Interactive filters for better analysis
 
-## Dashboard Preview
+## 📊 Dashboard Preview
 
-![Sheet-1-Forecasting](<img width="1245" height="698" alt="Sheet-1-Forecasting" src="https://github.com/user-attachments/assets/392baaea-2376-4695-a04d-7021b9db211c" />
-)
+<img width="1245" height="698" alt="SalesDashboard1" src="https://github.com/user-attachments/assets/4aadef6b-695d-43d0-b28e-dd2dc8f0dcce" width="900"/>
+
+<img width="1248" height="701" alt="sheet2Forecasting" src="https://github.com/user-attachments/assets/8c2c9285-88a1-477b-bd15-4c1f4b7bdcc1" width="900"/>
+
 
 ## 📈 Key KPIs 
 
