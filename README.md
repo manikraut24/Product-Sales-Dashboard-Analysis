@@ -32,7 +32,7 @@ Sample Data:
 
 ## Dashboard Preview
 
-![Dashboard](<img width="1245" height="698" alt="Sheet-1-Forecasting" src="https://github.com/user-attachments/assets/392baaea-2376-4695-a04d-7021b9db211c" />
+![Sheet-1-Forecasting](<img width="1245" height="698" alt="Sheet-1-Forecasting" src="https://github.com/user-attachments/assets/392baaea-2376-4695-a04d-7021b9db211c" />
 )
 
 ## 📈 Key KPIs 
