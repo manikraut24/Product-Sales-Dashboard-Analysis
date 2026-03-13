@@ -32,7 +32,7 @@ Sample Data:
 
 ## 📊 Dashboard Preview
 
-<img width="1245" height="698" alt="SalesDashboard1" src="https://github.com/user-attachments/assets/4aadef6b-695d-43d0-b28e-dd2dc8f0dcce" width="900"/>
+<img width="1326" height="744" alt="Screenshot 2026-03-13 140731" src="https://github.com/user-attachments/assets/25d3b592-f2e3-4d58-a38c-05473ce00c21" width="900"/>
 
 <img width="1248" height="701" alt="sheet2Forecasting" src="https://github.com/user-attachments/assets/8c2c9285-88a1-477b-bd15-4c1f4b7bdcc1" width="900"/>
 
